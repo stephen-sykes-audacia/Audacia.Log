@@ -1,5 +1,12 @@
 ﻿# Changelog
 
+## 4.0.3 - 2025-04-02
+### Added
+- No new functionality added
+
+### Changed
+- Updated list of ExcludeArguments in LogDependencyFilter code sample in README.md to match the current default values in Audacia.Templates.
+
 ## 4.0.2 - 2025-03-06
 ### Added
 - No new functionality added
